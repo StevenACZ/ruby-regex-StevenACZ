@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Contact class",
+      "setup": "",
+      "run": "ruby 24contact/contact_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Agenda",
+      "setup": "",
+      "run": "ruby 25agenda/agenda_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 8
+    },
+    {
+      "name": "Agenda Manager",
+      "setup": "",
+      "run": "ruby 26manager/manager_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    }
+  ]
+}
